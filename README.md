@@ -3,13 +3,12 @@
 Interactive Power BI dashboard for analyzing the Magnificent 7 stocks across performance, fundamentals, and valuation.
 
 ## What It Does
-- Compare stock performance across multiple timeframes
-- View company size using Market Cap / Enterprise Value
-- Analyze fundamentals by category:
+- Compares stock performance across multiple timeframes
+- Views company size using Market Cap / Enterprise Value
+- Analyzes fundamentals by category:
   - Quality
   - Growth
   - Valuation
-- Interactive filters, buttons, and chart navigation
 
 <img width="1761" height="988" alt="image" src="https://github.com/user-attachments/assets/3737436e-2070-432a-95ad-a8cf9a1859c0" />
 
