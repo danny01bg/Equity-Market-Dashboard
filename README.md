@@ -2,6 +2,12 @@
 
 Interactive Power BI dashboard for analyzing the Magnificent 7 stocks across performance, fundamentals, and valuation.
 
+# Data Pipeline
+
+Data retrieved with **yfinance** using **Python**, stored in **SQL Server**, then loaded into **Power BI** using Import mode.
+
+**Flow:** Python → SQL Server → Power BI
+
 ## What It Does
 - Compares stock performance across multiple timeframes
 - Views company size using Market Cap / Enterprise Value
@@ -17,6 +23,11 @@ Interactive Power BI dashboard for analyzing the Magnificent 7 stocks across per
 <img width="1746" height="980" alt="image" src="https://github.com/user-attachments/assets/83d68d67-6936-48fe-8b26-febc31c5965a" />
 
 <img width="1735" height="982" alt="image" src="https://github.com/user-attachments/assets/782129b6-8ef6-4bac-8cfa-43b7a5e877ed" />
+
+## How to View
+
+1. Download the `.pbix` file from this repository  
+2. Open with Power BI Desktop
 
 ## Last Updated 
 
